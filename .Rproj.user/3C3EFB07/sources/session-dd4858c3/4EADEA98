@@ -1,0 +1,27 @@
+{
+    "id": "4EADEA98",
+    "path": "~/projects/quaker/download_pages.R",
+    "project_path": "download_pages.R",
+    "type": "r_source",
+    "hash": "3723309761",
+    "contents": "",
+    "dirty": false,
+    "created": 1705546494640.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "70,6",
+        "scrollLine": "58"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1706360547,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1706360547420,
+    "read_only": false,
+    "read_only_alternatives": []
+}
